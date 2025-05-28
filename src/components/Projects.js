@@ -7,6 +7,7 @@ import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
+
 export const Projects = () => {
 
   const projects = [
@@ -14,7 +15,7 @@ export const Projects = () => {
       title: "Holticultra",
       description: "Design & Developer Iot",
       imgUrl: projImg1,
-      link: "/portfolio/holticura",
+      link: "https://drive.google.com/drive/u/0/folders/1zMRm1DT-84X0OvE1RCqUg5_H22txcYHP",
     },
     {
       title: "Business Startup 2",
